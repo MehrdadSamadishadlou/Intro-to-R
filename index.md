@@ -8,52 +8,99 @@ filename: index
 
 <p style="text-align: center"><img width="500" alt="Picture1" src="https://github.com/MehrdadSamadishadlou/Python_for_Beginners/assets/95024166/55d9b0dd-20ce-4fe0-8faa-ea8ba284060b"></p>
 
+
+# Introduction to R: From Data to Discovery
+
+A compact, interactive **3-hour workshop** for beginners to gain hands-on experience using R for data analysis and visualization. Participants will learn to navigate RStudio, understand R’s logic, explore and visualize data, and create shareable, reproducible reports.
+
+> **Who is it for?** Anyone curious about data—students, researchers, or professionals from any field.
+
+> **Goal:** Leave with the confidence to start exploring and communicating data using R.
+
+---
+
+## 1) Get Ready: Installing R and RStudio
+
+We begin by setting up the R environment and RStudio interface—the tools you’ll use for all your work in R. You’ll learn how to install both, configure your workspace, and understand where to write, run, and save your code.
+
+**Outcome:** You’ll have R and RStudio correctly installed and ready to use. You’ll know how to open new scripts, run commands, and access R’s built-in help.
+
+---
+
+## 2) Speak R: Console Basics and Syntax
+
+This section introduces the “language” of R—how it reads and interprets instructions. You’ll learn how R handles numbers, text, and simple commands, and how to interact with the console to test ideas quickly. You’ll see how functions work and how R gives feedback when something goes wrong.
+
+**Outcome:** Comfort typing commands, reading messages, and understanding how R processes information. Participants will be able to perform simple calculations and explore basic R functions interactively.
+
+---
+
+## 3) Know Your Data: Types and Structures
+
+Here we’ll uncover how R organizes information. You’ll learn about R’s main data structures—vectors, data frames, and lists—and why each matters. Understanding these forms helps you manipulate and analyze data efficiently.
+
+**Outcome:** Participants will understand the difference between numeric, categorical, and text data, and will be able to identify the structure of any dataset. Example outputs include quick overviews of data, showing summary statistics and variable types.
+
+---
+
+## 4) Tame Your Data: Importing, Cleaning, and Wrangling
+
+This session focuses on one of the most essential skills in data science—preparing messy data for analysis. You’ll learn how to import data files, handle missing values, and reshape datasets into useful formats. We’ll discuss best practices for naming, consistency, and reproducibility.
+
+**Outcome:** A clean, well-organized dataset ready for exploration. Participants will see examples of how a disordered spreadsheet can be transformed into a tidy table suitable for analysis and visualization.
+
+---
+
+## 5) See the Story: Data Exploration and Visualization
+
+Now we turn numbers into insights. You’ll discover how to visualize relationships, patterns, and trends using R’s visualization tools. We’ll explore how color, shape, and layout affect interpretation and how visualization can tell a story about your data.
+
+**Outcome:** Eye-catching, informative plots such as scatterplots showing relationships between variables or bar charts summarizing key trends. These visuals reveal hidden patterns that are hard to spot in tables.
+
+![Example ggplot2 scatter plot](https://upload.wikimedia.org/wikipedia/commons/1/19/Ggplot2_scatter_plot.svg)
+
+---
+
+## 6) Share Your Work: Reports with R Markdown
+
+The final section demonstrates how to turn analysis into communication. With R Markdown, you can combine text, code, and visuals into one reproducible report. It ensures your results are transparent and easy to share.
+
+**Outcome:** A polished, self-contained document that integrates your analysis and results. Participants will leave knowing how to produce clean HTML or PDF reports suitable for presentations, assignments, or publications.
+
+---
+
+## What You’ll Walk Away With
+
+* A working R environment on your own laptop.
+* An understanding of R’s basic language and structure.
+* Experience cleaning, exploring, and visualizing real data.
+* A reproducible report demonstrating your new skills.
+
+---
+
+## Logistics
+
+* **Duration:** 3 hours (single session)
+* **Format:** Live demo + guided hands-on exercises
+* **Prereqs:** None—just curiosity!
+* **Materials:** Sample datasets, exercise scripts, and slides provided
+
+**Questions or ready to register?** → Open an issue or contact the organizer via the GitHub repository.
+
+---
+
+### Credits for example assets
+
+* Example figure: Wikimedia Commons, CC BY 4.0 [https://commons.wikimedia.org/wiki/File:Ggplot2_scatter_plot.svg](https://commons.wikimedia.org/wiki/File:Ggplot2_scatter_plot.svg)
+* R logo: R Foundation, CC BY‑SA 4.0 [https://www.r-project.org/logo/](https://www.r-project.org/logo/)
+
+
 <p style='text-align: justify;'>
 Welcome to our introductory course on Python programming! This comprehensive 15-session course is designed to guide you through the fundamentals of Python, one of the most versatile and widely used programming languages in the world.
 </p>
 
-<p style='text-align: justify;'>
-Starting on Ordibehesht 29th, we will embark on an exciting journey, exploring the core concepts of Python, including variables and simple data types, if statements, dictionaries, loops, functions, and many more. Each session will be packed with hands-on activities, allowing you to apply what you've learned through practical exercises and engaging projects.
-</p>
 
-<p style='text-align: justify;'>
-Whether you're new to programming or already familiar with other languages, this course will equip you with the essential Python skills to take your coding abilities to new heights. By the end of the course, you'll be able to leverage Python's power to effectively manage your data, automate your data pipelines, and dive into a wide range of fields that rely heavily on Python, such as Artificial Intelligence, Web Development, Image Processing, and Software Development, among others. Python's versatility opens up a world of possibilities, and this course will provide you with the solid foundation you need to explore them all. Join us on this exciting journey and unlock the potential of Python programming!
-</p>
 
-<p style='text-align: justify;'>
-Suppose you would like any additional details about the course or want to connect. In that case, I'm happy to provide more information and answer questions - feel free to reach out to me directly at <b>mehrdad.samadi90@gmail.com</b> or visit my <a href="https://www.linkedin.com/in/mehrdad-samadishadlou-90723580/">LinkedIn profile</a> to learn more about my background.
-</p>
-
-<p style='text-align: justify;'>
-This course, conducted in collaboration with the Research Development & Coordination Center (RDCC) and Medical Biotechnology Scientific Association of Tabriz University of Medical Sciences, is open for registration. Please follow the link to the RDCC workshops website for more information and to sign up: <a href="https://workshop.tbzmed.ac.ir/fa/" target="_blank"><button>RDCC Workshop</button></a>
-</p>
-
-<p style='text-align: justify;'>
-Additionally, you have the option to view the class video recordings on my <a href="https://www.youtube.com/@MehrdadSamadishadlou" target="_blank"><button>YouTube</button></a> channel. 
-</p>
-
-  
-# About this Webpage
-
-<p style='text-align: justify;'>
-This webpage is your go-to resource for all materials, exercises, and projects related to the course. On the main page, you will find general announcements and updates about the course, including important dates and any changes to the schedule.
-</p>
-
-<p style='text-align: justify;'>
-<a href="https://mehrdadsamadishadlou.github.io/Python_for_Beginners/materials">The course material page</a> is where you will find all the slides, links, code examples, and any other materials that may be helpful for your learning. I will update this page regularly throughout the course, so be sure to check back often for new resources.
-</p>
-
-<p style='text-align: justify;'>
-<a href="https://mehrdadsamadishadlou.github.io/Python_for_Beginners/nexercises">The exercises page</a> is where you will find practice problems and coding challenges to help you reinforce your learning and improve your skills. I encourage you to work through these exercises on your own and also to collaborate with your fellow students to solve more challenging problems.
-</p>
-
-<p style='text-align: justify;'>
-Finally, on <a href="https://mehrdadsamadishadlou.github.io/Python_for_Beginners/projects">the project page</a> the project page, you will find information about the course projects. I will provide you with project descriptions, requirements, and guidelines to help you complete them successfully. These projects will give you the opportunity to apply your knowledge and skills in a real-world setting and showcase your work to your fellow students.
-</p>
-
-<p style='text-align: justify;'>
-So sit back, relax, and get ready to dive into the exciting world of Python programming. By the end of this course, you'll have the skills and confidence to tackle a wide range of programming challenges and build your own Python projects from scratch. Let's get started!
-</p>
 
 <!--
 # Telegram Group
