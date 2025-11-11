@@ -6,7 +6,8 @@ filename: index
 
 ### Created by <a href="https://github.com/MehrdadSamadishadlou">Mehrdad Samadishadlou</a>
 
-<p style="text-align: center"><img width="500" alt="Picture1" src="https://github.com/MehrdadSamadishadlou/Python_for_Beginners/assets/95024166/55d9b0dd-20ce-4fe0-8faa-ea8ba284060b"></p>
+<p style="text-align: center"><img width="500" alt="Picture1" 
+<img width="1024" height="1536" alt="ChatGPT Image Nov 11, 2025, 06_14_20 PM" src="https://github.com/user-attachments/assets/990d473a-c20a-4e3d-afb5-1e021ac50d4d" /></p>
 
 
 # Introduction to R: From Data to Discovery
@@ -43,12 +44,15 @@ Here we’ll uncover how R organizes information. You’ll learn about R’s mai
 This session focuses on one of the most essential skills in data science—preparing messy data for analysis. You’ll learn how to import data files, handle missing values, and reshape datasets into useful formats. We’ll discuss best practices for naming, consistency, and reproducibility.
 
 
+
 ---
 
 ## 5) See the Story: Data Exploration and Visualization
 
 Now we turn numbers into insights. You’ll discover how to visualize relationships, patterns, and trends using R’s visualization tools. We’ll explore how color, shape, and layout affect interpretation and how visualization can tell a story about your data.
 
+<p style="text-align: center"><img width="500" alt="Picture2" 
+<img width="4166" height="2291" alt="post" src="https://github.com/user-attachments/assets/0846214b-d960-4a92-a6aa-4afd0e87bb4b" /></p>
 
 ---
 
