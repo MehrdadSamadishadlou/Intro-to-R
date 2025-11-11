@@ -56,9 +56,7 @@ Now we turn numbers into insights. You’ll discover how to visualize relationsh
 
 ## 6) Share Your Work: Reports with R Markdown
 
-The final section demonstrates how to turn analysis into communication. With R Markdown, you can combine text, code, and visuals into one reproducible report. It ensures your results are transparent and easy to share.
-
-**Outcome:** A polished, self-contained document that integrates your analysis and results. Participants will leave knowing how to produce clean HTML or PDF reports suitable for presentations, assignments, or publications.
+The final section demonstrates how to turn analysis into communication. With R Markdown, you can combine text, code, and visuals into one reproducible report. It ensures your manuscript is transparent and easy to share. You can also select the journal style you prefer and output your manuscript in the journal format in the second step.
 
 ---
 
@@ -73,27 +71,12 @@ The final section demonstrates how to turn analysis into communication. With R M
 
 ## Logistics
 
-* **Duration:** 3 hours (single session)
+* **Duration:** 4 hours (single session)
 * **Format:** Live demo + guided hands-on exercises
 * **Prereqs:** None—just curiosity!
 * **Materials:** Sample datasets, exercise scripts, and slides provided
 
-**Questions or ready to register?** → Open an issue or contact the organizer via the GitHub repository.
-
 ---
-
-### Credits for example assets
-
-* Example figure: Wikimedia Commons, CC BY 4.0 [https://commons.wikimedia.org/wiki/File:Ggplot2_scatter_plot.svg](https://commons.wikimedia.org/wiki/File:Ggplot2_scatter_plot.svg)
-* R logo: R Foundation, CC BY‑SA 4.0 [https://www.r-project.org/logo/](https://www.r-project.org/logo/)
-
-
-<p style='text-align: justify;'>
-Welcome to our introductory course on Python programming! This comprehensive 15-session course is designed to guide you through the fundamentals of Python, one of the most versatile and widely used programming languages in the world.
-</p>
-
-
-
 
 ## Enroll:
 
