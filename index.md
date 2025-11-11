@@ -11,11 +11,11 @@ filename: index
 
 # Introduction to R: From Data to Discovery
 
-A compact, interactive **3-hour workshop** for beginners to gain hands-on experience using R for data analysis and visualization. Participants will learn to navigate RStudio, understand R’s logic, explore and visualize data, and create shareable, reproducible reports.
+A compact, interactive **4-hour workshop** for beginners to gain hands-on experience using R for data analysis and visualization. Participants will learn to navigate RStudio, understand R’s logic, explore and visualize data, and create shareable, reproducible reports.
 
-> **Who is it for?** Anyone curious about data—students, researchers, or professionals from any field.
+**Who is it for?** Anyone curious about data—students, researchers, or professionals from any field.
 
-> **Goal:** Leave with the confidence to start exploring and communicating data using R.
+**Goal:** Leave with the confidence to start exploring and communicating data using R.
 
 ---
 
@@ -23,15 +23,11 @@ A compact, interactive **3-hour workshop** for beginners to gain hands-on experi
 
 We begin by setting up the R environment and RStudio interface—the tools you’ll use for all your work in R. You’ll learn how to install both, configure your workspace, and understand where to write, run, and save your code.
 
-**Outcome:** You’ll have R and RStudio correctly installed and ready to use. You’ll know how to open new scripts, run commands, and access R’s built-in help.
-
 ---
 
 ## 2) Speak R: Console Basics and Syntax
 
 This section introduces the “language” of R—how it reads and interprets instructions. You’ll learn how R handles numbers, text, and simple commands, and how to interact with the console to test ideas quickly. You’ll see how functions work and how R gives feedback when something goes wrong.
-
-**Outcome:** Comfort typing commands, reading messages, and understanding how R processes information. Participants will be able to perform simple calculations and explore basic R functions interactively.
 
 ---
 
@@ -39,7 +35,6 @@ This section introduces the “language” of R—how it reads and interprets in
 
 Here we’ll uncover how R organizes information. You’ll learn about R’s main data structures—vectors, data frames, and lists—and why each matters. Understanding these forms helps you manipulate and analyze data efficiently.
 
-**Outcome:** Participants will understand the difference between numeric, categorical, and text data, and will be able to identify the structure of any dataset. Example outputs include quick overviews of data, showing summary statistics and variable types.
 
 ---
 
@@ -47,7 +42,6 @@ Here we’ll uncover how R organizes information. You’ll learn about R’s mai
 
 This session focuses on one of the most essential skills in data science—preparing messy data for analysis. You’ll learn how to import data files, handle missing values, and reshape datasets into useful formats. We’ll discuss best practices for naming, consistency, and reproducibility.
 
-**Outcome:** A clean, well-organized dataset ready for exploration. Participants will see examples of how a disordered spreadsheet can be transformed into a tidy table suitable for analysis and visualization.
 
 ---
 
@@ -55,9 +49,6 @@ This session focuses on one of the most essential skills in data science—prepa
 
 Now we turn numbers into insights. You’ll discover how to visualize relationships, patterns, and trends using R’s visualization tools. We’ll explore how color, shape, and layout affect interpretation and how visualization can tell a story about your data.
 
-**Outcome:** Eye-catching, informative plots such as scatterplots showing relationships between variables or bar charts summarizing key trends. These visuals reveal hidden patterns that are hard to spot in tables.
-
-![Example ggplot2 scatter plot](https://upload.wikimedia.org/wikipedia/commons/1/19/Ggplot2_scatter_plot.svg)
 
 ---
 
