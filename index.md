@@ -49,7 +49,7 @@ This session focuses on one of the most essential skills in data science—prepa
 
 ## 5) See the Story: Data Exploration and Visualization
 
-Now we turn numbers into insights. You’ll discover how to visualize relationships, patterns, and trends using R’s visualization tools. We’ll explore how color, shape, and layout affect interpretation and how visualization can tell a story about your data.
+Now we turn numbers into insights. You’ll discover how to visualize relationships, patterns, and trends using R’s ggplot. We’ll explore how color, shape, and layout affect interpretation and how visualization can tell a story about your data.
 
 <p style="text-align: center"><img width="500" alt="Picture2" 
 <img width="4166" height="2291" alt="post" src="https://github.com/user-attachments/assets/0846214b-d960-4a92-a6aa-4afd0e87bb4b" /></p>
