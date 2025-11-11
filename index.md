@@ -4,13 +4,16 @@ layout: template
 filename: index
 --- 
 
-### Created by <a href="https://github.com/MehrdadSamadishadlou">Mehrdad Samadishadlou</a>
-
 A compact, interactive **4-hour workshop** for beginners to gain hands-on experience using R for data analysis and visualization. Participants will learn to navigate RStudio, understand R’s logic, explore and visualize data, and create shareable, reproducible reports.
 
 **Who is it for?** Anyone curious about data—students, researchers, or professionals from any field.
 
 **Goal:** Leave with the confidence to start exploring and communicating data using R.
+
+**Workshop Director:** Mehrdad Samadishadlou
+
+If you would like any additional details about the course or want to connect, I’m happy to provide more information and answer questions.
+Feel free to reach out to me directly at <b>mehrdad.samadi90@gmail.com</b> or visit my <a href="https://www.linkedin.com/in/mehrdad-samadishadlou-90723580/">LinkedIn profile</a> to learn more about my background.
 
 <p style="text-align: center"><img width="500" alt="ChatGPT Image Nov 11, 2025, 06_14_20 PM" src="https://github.com/user-attachments/assets/990d473a-c20a-4e3d-afb5-1e021ac50d4d" /></p>
 
