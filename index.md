@@ -81,4 +81,3 @@ The final section demonstrates how to turn analysis into communication. With R M
 ## Enroll:
 
 You can enroll in the workshop using the following button: <a href="https://forms.gle/HtNm4cswdA2UigjJA" target="_blank"><button>Join Us</button></a>
--->
