@@ -6,8 +6,7 @@ filename: index
 
 ### Created by <a href="https://github.com/MehrdadSamadishadlou">Mehrdad Samadishadlou</a>
 
-<p style="text-align: center"><img width="500" alt="Picture1" 
-<img width="1024" height="1536" alt="ChatGPT Image Nov 11, 2025, 06_14_20 PM" src="https://github.com/user-attachments/assets/990d473a-c20a-4e3d-afb5-1e021ac50d4d" /></p>
+<p style="text-align: center"><img width="500" alt="ChatGPT Image Nov 11, 2025, 06_14_20 PM" src="https://github.com/user-attachments/assets/990d473a-c20a-4e3d-afb5-1e021ac50d4d" /></p>
 
 
 # Introduction to R: From Data to Discovery
