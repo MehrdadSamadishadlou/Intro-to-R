@@ -6,17 +6,15 @@ filename: index
 
 ### Created by <a href="https://github.com/MehrdadSamadishadlou">Mehrdad Samadishadlou</a>
 
-<p style="text-align: center"><img width="500" alt="ChatGPT Image Nov 11, 2025, 06_14_20 PM" src="https://github.com/user-attachments/assets/990d473a-c20a-4e3d-afb5-1e021ac50d4d" /></p>
-
-
-# Introduction to R: From Data to Discovery
-
 A compact, interactive **4-hour workshop** for beginners to gain hands-on experience using R for data analysis and visualization. Participants will learn to navigate RStudio, understand R’s logic, explore and visualize data, and create shareable, reproducible reports.
 
 **Who is it for?** Anyone curious about data—students, researchers, or professionals from any field.
 
 **Goal:** Leave with the confidence to start exploring and communicating data using R.
 
+<p style="text-align: center"><img width="500" alt="ChatGPT Image Nov 11, 2025, 06_14_20 PM" src="https://github.com/user-attachments/assets/990d473a-c20a-4e3d-afb5-1e021ac50d4d" /></p>
+
+# What are you excpecting?
 ---
 
 ## 1) Get Ready: Installing R and RStudio
