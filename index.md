@@ -95,8 +95,7 @@ Welcome to our introductory course on Python programming! This comprehensive 15-
 
 
 
-<!--
-# Telegram Group
+## Enroll:
 
-Please join: <a href="https://t.me/+gdvBCxEj4z43MTRk" target="_blank"><button>Telegram</button></a>
+You can enroll in the workshop using the following button: <a href="https://forms.gle/HtNm4cswdA2UigjJA" target="_blank"><button>Join Us</button></a>
 -->
