@@ -38,3 +38,13 @@ Write a line of code to convert time to hours. Then write a line of code to calc
 
 2. Create a table, call it my_states, that satisfies both the conditions: it is in the Northeast or West and the murder rate is less than 1. Use "select" to show only the state name, the rate and the rate. How many states are in these regions?
 
+## RMarkdown
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+library(tidyverse)
+library(ggthemes)
+library(ggrepel)
+library(ggthemes)
+```
