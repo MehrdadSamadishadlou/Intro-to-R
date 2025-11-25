@@ -36,3 +36,5 @@ time <- c(10, 30, 40, 50)
 ```
 Write a line of code to convert time to hours. Then write a line of code to calculate the speed of each runner in km per hour (Speed is distance divided by time). Who was the fastest runner?
 
+2. Create a table, call it my_states, that satisfies both the conditions: it is in the Northeast or West and the murder rate is less than 1. Use 'select' to show only the state name, the rate and the rate. How many states are in these regions?
+
