@@ -40,7 +40,8 @@ Write a line of code to convert time to hours. Then write a line of code to calc
 
 ## RMarkdown
 
-```{r setup, include=FALSE}
+```
+{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 
 library(tidyverse)
