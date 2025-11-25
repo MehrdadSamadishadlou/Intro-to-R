@@ -18,3 +18,11 @@ An IDE, or Integrated Development Environment, is a software application that pr
 </p>
 
 <a href="https://posit.co/download/rstudio-desktop/" target="_blank"><button>RStudio Download Page</button></a>
+
+
+## Datasets
+
+You can download requred datasets using the following links.
+
+<a href="https://drive.google.com/file/d/1jmk_8b_I2QFv_JMZ2_5FqMF2-Y_4IlJ-/view?usp=drive_link" target="_blank"><button>Murders Dataset</button></a>
+
