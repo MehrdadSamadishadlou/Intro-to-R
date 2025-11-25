@@ -26,3 +26,13 @@ You can download requred datasets using the following links.
 
 <a href="https://drive.google.com/file/d/1jmk_8b_I2QFv_JMZ2_5FqMF2-Y_4IlJ-/view?usp=drive_link" target="_blank"><button>Murders Dataset</button></a>
 
+## Exercises
+
+1. Akbar, Sarah, Ali, and Nastaran all ran different distances in different time intervals. Their distances (in km) and times (in minutes) are as follows:
+```
+name <- c("Akbar", "Sarah", "Ali", "Nastaran")
+distance <- c(0.8, 3.1, 2.8, 4.0)
+time <- c(10, 30, 40, 50)
+```
+Write a line of code to convert time to hours. Then write a line of code to calculate the speed of each runner in km per hour (Speed is distance divided by time). Who was the fastest runner?
+
